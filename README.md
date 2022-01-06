@@ -2,9 +2,9 @@
 
 This is a high level abstraction NoC (Network-On-Chip) simulator developed as a Multiagent System (MAS). The simulator allows designers to evaluate routing algorithms, test alternative configurations and message formats. The simulation provides important measurements such as rate of utilization of routers, network contention and delay in sending messages.
 
-You can get more details about the simulator construction/usage, along with case studies, on this academic article:
-**A Multi-Agent-Based Network-on-Chip Simulator**
-https://jics.org.br/ojs/index.php/JICS/article/view/268
+You can get more details about the simulator construction/usage, along with case studies, on this academic article:  
+**A Multi-Agent-Based Network-on-Chip Simulator**  
+(https://jics.org.br/ojs/index.php/JICS/article/view/268)
 
 # Requirements
 
