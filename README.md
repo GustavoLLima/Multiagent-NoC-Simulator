@@ -4,12 +4,11 @@ This is the result of my Master´s degree work. It's a high level abstraction No
 
 Consider reading my academic article (in english) or the full dissertation text (in Portuguese). In both cases you will get all the details of how the simulator was built and how every part of it works.
 
-Article - You can get more details about the simulator construction/usage, along with case studies, on this academic article:  
-**A Multi-Agent-Based Network-on-Chip Simulator**  
-(https://jics.org.br/ojs/index.php/JICS/article/view/268)
+Article - You can get more details about the simulator construction/usage, along with case studies, on this academic article: **A Multi-Agent-Based Network-on-Chip Simulator**
+  (https://jics.org.br/ojs/index.php/JICS/article/view/268)
 
-Dissertation - Also, you can read about the simulator on my Master´s degree dissertation (in Portuguese), which has every single part of it explained in details. Check it on: 
-(http://repositorio.furg.br/handle/1/8127) 
+Dissertation - Also, you can read about the simulator on my Master´s degree dissertation (in Portuguese), which has every single part of it explained in details. Check it on:
+  (http://repositorio.furg.br/handle/1/8127) 
 
 # Requirements
 
